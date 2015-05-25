@@ -1,7 +1,3 @@
-/**
- * Created by Maxim on 26.04.2015.
- */
-
 function update() {
     setInterval(function () {
         updateLocal();

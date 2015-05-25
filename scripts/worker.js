@@ -1,7 +1,3 @@
-/**
- * Created by Maxim on 22.04.2015.
- */
-
 function isPalindrome(str) {
     return str == str.split('').reverse().join('');
 }

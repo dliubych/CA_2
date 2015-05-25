@@ -1,5 +1,3 @@
-# __author__ = 'andreynikolin'
-#
 # from webtest import TestApp
 #
 # import main

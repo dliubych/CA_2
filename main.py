@@ -12,7 +12,7 @@ finished = []
 start_time = 0
 finish_time = 0
 number_of_parts_for_workers = 100
-file_with_text = open('text.txt', 'r')
+file_with_text = open('text2.txt', 'r')
 text = file_with_text.read()
 pause_server = False
 

@@ -1,6 +1,3 @@
-__author__ = 'Maxim'
-
-
 # import cherrypy
 # import os.path
 #
